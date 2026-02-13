@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/189608228128741953/26b7d98b90c949fb8b9cc6e8b963d09f/artifacts
+end_time: 1771002075420
+entry_point_name: ''
+experiment_id: '189608228128741953'
+lifecycle_stage: active
+run_id: 26b7d98b90c949fb8b9cc6e8b963d09f
+run_name: Spectral_nearest_neighbors_n9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002074640
+status: 3
+tags: []
+user_id: hsn

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/444656991134449736/83e37af7f33b4abb8071d14f5a628d69/artifacts
+end_time: 1771000741294
+entry_point_name: ''
+experiment_id: '444656991134449736'
+lifecycle_stage: active
+run_id: 83e37af7f33b4abb8071d14f5a628d69
+run_name: SBS_Selection
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771000722426
+status: 3
+tags: []
+user_id: hsn

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/189608228128741953/db44e57bc0c4443a8b16fb3d460ccb2c/artifacts
+end_time: 1771001749148
+entry_point_name: ''
+experiment_id: '189608228128741953'
+lifecycle_stage: active
+run_id: db44e57bc0c4443a8b16fb3d460ccb2c
+run_name: KMeans_k4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771001741572
+status: 3
+tags: []
+user_id: hsn

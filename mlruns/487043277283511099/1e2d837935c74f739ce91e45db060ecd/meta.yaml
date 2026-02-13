@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/1e2d837935c74f739ce91e45db060ecd/artifacts
+end_time: 1771002572933
+entry_point_name: ''
+experiment_id: '487043277283511099'
+lifecycle_stage: active
+run_id: 1e2d837935c74f739ce91e45db060ecd
+run_name: Gradient_Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002564560
+status: 3
+tags: []
+user_id: hsn

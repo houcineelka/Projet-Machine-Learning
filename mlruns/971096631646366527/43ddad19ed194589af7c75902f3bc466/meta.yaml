@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/971096631646366527/43ddad19ed194589af7c75902f3bc466/artifacts
+end_time: 1771002805716
+entry_point_name: ''
+experiment_id: '971096631646366527'
+lifecycle_stage: active
+run_id: 43ddad19ed194589af7c75902f3bc466
+run_name: XGBoost_Regressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002787470
+status: 3
+tags: []
+user_id: hsn

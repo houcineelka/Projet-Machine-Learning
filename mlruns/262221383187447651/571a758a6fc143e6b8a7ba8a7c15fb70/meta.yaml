@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/262221383187447651/571a758a6fc143e6b8a7ba8a7c15fb70/artifacts
+end_time: 1771003207683
+entry_point_name: ''
+experiment_id: '262221383187447651'
+lifecycle_stage: active
+run_id: 571a758a6fc143e6b8a7ba8a7c15fb70
+run_name: RF_Optimized
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771003194500
+status: 3
+tags: []
+user_id: hsn

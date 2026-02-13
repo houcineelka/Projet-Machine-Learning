@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/262221383187447651/22160993fb2d4cb1bc1164cf3a7ac05b/artifacts
+end_time: 1771003218052
+entry_point_name: ''
+experiment_id: '262221383187447651'
+lifecycle_stage: active
+run_id: 22160993fb2d4cb1bc1164cf3a7ac05b
+run_name: XGB_GridSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771003208167
+status: 3
+tags: []
+user_id: hsn

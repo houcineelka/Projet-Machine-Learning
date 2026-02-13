@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/262221383187447651/models/m-fae788106484417bb98ebb99272f7c67/artifacts
+creation_timestamp: 1771003238343
+experiment_id: '262221383187447651'
+last_updated_timestamp: 1771003246603
+model_id: m-fae788106484417bb98ebb99272f7c67
+model_type: null
+name: svm_optimized
+source_run_id: 63fb9329b46548d788a8e82fd10f44ba
+status: 2
+status_message: null

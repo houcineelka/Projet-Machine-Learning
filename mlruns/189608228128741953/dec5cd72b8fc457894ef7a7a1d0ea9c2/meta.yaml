@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/189608228128741953/dec5cd72b8fc457894ef7a7a1d0ea9c2/artifacts
+end_time: 1771001801565
+entry_point_name: ''
+experiment_id: '189608228128741953'
+lifecycle_stage: active
+run_id: dec5cd72b8fc457894ef7a7a1d0ea9c2
+run_name: DBSCAN_eps0.3_min3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771001801118
+status: 4
+tags: []
+user_id: hsn

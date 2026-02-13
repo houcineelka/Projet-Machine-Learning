@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/models/m-660d49d3cbd945f6a21fafdfd4a9bc58/artifacts
+creation_timestamp: 1771002499722
+experiment_id: '487043277283511099'
+last_updated_timestamp: 1771002506977
+model_id: m-660d49d3cbd945f6a21fafdfd4a9bc58
+model_type: null
+name: Linear_SVM
+source_run_id: b34f171a2eb441f09451ce7f1648521a
+status: 2
+status_message: null

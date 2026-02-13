@@ -1,0 +1,14 @@
+Feature,Nombre de sélections,Pourcentage,Sélectionnée par
+sex,3,100%,"RFE, SBS, LASSO"
+cp,3,100%,"RFE, SBS, LASSO"
+oldpeak,3,100%,"RFE, SBS, LASSO"
+thal,3,100%,"RFE, SBS, LASSO"
+ca,3,100%,"RFE, SBS, LASSO"
+thalach,2,67%,"RFE, LASSO"
+exang,2,67%,"RFE, LASSO"
+slope,2,67%,"SBS, LASSO"
+restecg,2,67%,"SBS, LASSO"
+chol,1,33%,LASSO
+trestbps,1,33%,LASSO
+age,1,33%,LASSO
+fbs,0,0%,-

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/189608228128741953/f865c8a1cda64791ae1eb6ac869c3875/artifacts
+end_time: 1771002068090
+entry_point_name: ''
+experiment_id: '189608228128741953'
+lifecycle_stage: active
+run_id: f865c8a1cda64791ae1eb6ac869c3875
+run_name: Spectral_rbf_n5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002067967
+status: 3
+tags: []
+user_id: hsn

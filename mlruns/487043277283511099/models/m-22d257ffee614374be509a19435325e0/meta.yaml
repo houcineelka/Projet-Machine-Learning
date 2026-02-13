@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/models/m-22d257ffee614374be509a19435325e0/artifacts
+creation_timestamp: 1771002474141
+experiment_id: '487043277283511099'
+last_updated_timestamp: 1771002483336
+model_id: m-22d257ffee614374be509a19435325e0
+model_type: null
+name: Naive_Bayes
+source_run_id: d7aca0ad7d6440f4a10bb82ef986f823
+status: 2
+status_message: null

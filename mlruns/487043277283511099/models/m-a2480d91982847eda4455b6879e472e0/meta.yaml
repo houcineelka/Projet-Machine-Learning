@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/models/m-a2480d91982847eda4455b6879e472e0/artifacts
+creation_timestamp: 1771002540715
+experiment_id: '487043277283511099'
+last_updated_timestamp: 1771002547200
+model_id: m-a2480d91982847eda4455b6879e472e0
+model_type: null
+name: Random_Forest
+source_run_id: 607079ee7cd5492f8796aa0699afa03c
+status: 2
+status_message: null

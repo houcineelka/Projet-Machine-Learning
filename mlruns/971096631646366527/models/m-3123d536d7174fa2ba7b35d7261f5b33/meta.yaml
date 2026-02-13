@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/971096631646366527/models/m-3123d536d7174fa2ba7b35d7261f5b33/artifacts
+creation_timestamp: 1771002789364
+experiment_id: '971096631646366527'
+last_updated_timestamp: 1771002805704
+model_id: m-3123d536d7174fa2ba7b35d7261f5b33
+model_type: null
+name: XGBoost_Regressor
+source_run_id: 43ddad19ed194589af7c75902f3bc466
+status: 2
+status_message: null

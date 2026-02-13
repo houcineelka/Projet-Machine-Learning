@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/262221383187447651/3febaf5e81564c2bb2ef6429146d5d6d/artifacts
+end_time: 1771003225246
+entry_point_name: ''
+experiment_id: '262221383187447651'
+lifecycle_stage: active
+run_id: 3febaf5e81564c2bb2ef6429146d5d6d
+run_name: XGB_Optimized
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771003218392
+status: 3
+tags: []
+user_id: hsn

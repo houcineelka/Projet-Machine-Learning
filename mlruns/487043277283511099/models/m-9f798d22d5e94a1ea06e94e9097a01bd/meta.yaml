@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/models/m-9f798d22d5e94a1ea06e94e9097a01bd/artifacts
+creation_timestamp: 1771002549075
+experiment_id: '487043277283511099'
+last_updated_timestamp: 1771002555787
+model_id: m-9f798d22d5e94a1ea06e94e9097a01bd
+model_type: null
+name: Extra_Trees
+source_run_id: c6d4bd6c39534ebb8a14aac40ba72aae
+status: 2
+status_message: null

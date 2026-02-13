@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/c4a29dd9bf3e42809185c64b3491a5e2/artifacts
+end_time: 1771002523151
+entry_point_name: ''
+experiment_id: '487043277283511099'
+lifecycle_stage: active
+run_id: c4a29dd9bf3e42809185c64b3491a5e2
+run_name: SVM_RBF
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002513914
+status: 3
+tags: []
+user_id: hsn

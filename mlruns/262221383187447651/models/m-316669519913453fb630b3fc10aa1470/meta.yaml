@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/262221383187447651/models/m-316669519913453fb630b3fc10aa1470/artifacts
+creation_timestamp: 1771003218668
+experiment_id: '262221383187447651'
+last_updated_timestamp: 1771003225232
+model_id: m-316669519913453fb630b3fc10aa1470
+model_type: null
+name: xgboost_optimized
+source_run_id: 3febaf5e81564c2bb2ef6429146d5d6d
+status: 2
+status_message: null

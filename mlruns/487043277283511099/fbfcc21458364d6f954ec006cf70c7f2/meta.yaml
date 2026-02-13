@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/fbfcc21458364d6f954ec006cf70c7f2/artifacts
+end_time: 1771002491311
+entry_point_name: ''
+experiment_id: '487043277283511099'
+lifecycle_stage: active
+run_id: fbfcc21458364d6f954ec006cf70c7f2
+run_name: Decision_Tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002483400
+status: 3
+tags: []
+user_id: hsn

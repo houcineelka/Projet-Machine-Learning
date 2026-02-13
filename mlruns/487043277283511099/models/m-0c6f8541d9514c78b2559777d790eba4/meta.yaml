@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/models/m-0c6f8541d9514c78b2559777d790eba4/artifacts
+creation_timestamp: 1771002584678
+experiment_id: '487043277283511099'
+last_updated_timestamp: 1771002592004
+model_id: m-0c6f8541d9514c78b2559777d790eba4
+model_type: null
+name: LightGBM
+source_run_id: 32b4dc4df06d4681a55bcd368838fd14
+status: 2
+status_message: null

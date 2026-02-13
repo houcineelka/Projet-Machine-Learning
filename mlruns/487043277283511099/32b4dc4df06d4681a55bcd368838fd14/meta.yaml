@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/32b4dc4df06d4681a55bcd368838fd14/artifacts
+end_time: 1771002592031
+entry_point_name: ''
+experiment_id: '487043277283511099'
+lifecycle_stage: active
+run_id: 32b4dc4df06d4681a55bcd368838fd14
+run_name: LightGBM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002583733
+status: 3
+tags: []
+user_id: hsn

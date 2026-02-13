@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/444656991134449736/e483f2ae4dc8453b9f5df090ac4ccc3e/artifacts
+end_time: 1771000747842
+entry_point_name: ''
+experiment_id: '444656991134449736'
+lifecycle_stage: active
+run_id: e483f2ae4dc8453b9f5df090ac4ccc3e
+run_name: PCA_Reduction
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771000745938
+status: 3
+tags: []
+user_id: hsn

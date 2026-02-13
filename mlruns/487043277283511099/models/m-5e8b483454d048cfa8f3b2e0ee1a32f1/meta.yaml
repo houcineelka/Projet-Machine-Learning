@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/models/m-5e8b483454d048cfa8f3b2e0ee1a32f1/artifacts
+creation_timestamp: 1771002558043
+experiment_id: '487043277283511099'
+last_updated_timestamp: 1771002564510
+model_id: m-5e8b483454d048cfa8f3b2e0ee1a32f1
+model_type: null
+name: AdaBoost
+source_run_id: 9888ba6c8b2d409ebd16746ce9439251
+status: 2
+status_message: null

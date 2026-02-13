@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/971096631646366527/2ed656f7335c4c579e89999bbf5623e2/artifacts
+end_time: 1771002728653
+entry_point_name: ''
+experiment_id: '971096631646366527'
+lifecycle_stage: active
+run_id: 2ed656f7335c4c579e89999bbf5623e2
+run_name: Lasso_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002721058
+status: 3
+tags: []
+user_id: hsn

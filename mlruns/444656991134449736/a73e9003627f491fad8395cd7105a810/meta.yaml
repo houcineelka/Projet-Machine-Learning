@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/444656991134449736/a73e9003627f491fad8395cd7105a810/artifacts
+end_time: 1771000623203
+entry_point_name: ''
+experiment_id: '444656991134449736'
+lifecycle_stage: active
+run_id: a73e9003627f491fad8395cd7105a810
+run_name: RFE_Selection
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771000621345
+status: 3
+tags: []
+user_id: hsn

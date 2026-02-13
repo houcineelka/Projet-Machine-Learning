@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/971096631646366527/models/m-2b37148cdb55407e90c5aad05fd49325/artifacts
+creation_timestamp: 1771002732976
+experiment_id: '971096631646366527'
+last_updated_timestamp: 1771002740668
+model_id: m-2b37148cdb55407e90c5aad05fd49325
+model_type: null
+name: SVR_RBF
+source_run_id: 415bbaf99e1140d78d11efccbd659fa2
+status: 2
+status_message: null

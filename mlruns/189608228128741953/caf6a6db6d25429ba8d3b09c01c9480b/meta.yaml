@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/189608228128741953/caf6a6db6d25429ba8d3b09c01c9480b/artifacts
+end_time: 1771002040491
+entry_point_name: ''
+experiment_id: '189608228128741953'
+lifecycle_stage: active
+run_id: caf6a6db6d25429ba8d3b09c01c9480b
+run_name: Hierarchical_ward_n2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002040208
+status: 3
+tags: []
+user_id: hsn

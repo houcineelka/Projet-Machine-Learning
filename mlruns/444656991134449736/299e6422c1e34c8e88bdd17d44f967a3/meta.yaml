@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/444656991134449736/299e6422c1e34c8e88bdd17d44f967a3/artifacts
+end_time: 1771000830694
+entry_point_name: ''
+experiment_id: '444656991134449736'
+lifecycle_stage: active
+run_id: 299e6422c1e34c8e88bdd17d44f967a3
+run_name: tSNE_Reduction
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771000830628
+status: 4
+tags: []
+user_id: hsn

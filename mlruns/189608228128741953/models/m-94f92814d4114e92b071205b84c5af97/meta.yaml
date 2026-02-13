@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/189608228128741953/models/m-94f92814d4114e92b071205b84c5af97/artifacts
+creation_timestamp: 1771001772335
+experiment_id: '189608228128741953'
+last_updated_timestamp: 1771001779459
+model_id: m-94f92814d4114e92b071205b84c5af97
+model_type: null
+name: kmeans_k8
+source_run_id: 00bf93144db34d7ca616143df4d7661d
+status: 2
+status_message: null

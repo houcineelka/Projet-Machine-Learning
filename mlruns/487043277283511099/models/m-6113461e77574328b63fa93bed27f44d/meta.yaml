@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/models/m-6113461e77574328b63fa93bed27f44d/artifacts
+creation_timestamp: 1771002566532
+experiment_id: '487043277283511099'
+last_updated_timestamp: 1771002572907
+model_id: m-6113461e77574328b63fa93bed27f44d
+model_type: null
+name: Gradient_Boosting
+source_run_id: 1e2d837935c74f739ce91e45db060ecd
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/262221383187447651/models/m-75523e859b6f49909c8dd2a27ac61cbb/artifacts
+creation_timestamp: 1771003194795
+experiment_id: '262221383187447651'
+last_updated_timestamp: 1771003207662
+model_id: m-75523e859b6f49909c8dd2a27ac61cbb
+model_type: null
+name: random_forest_optimized
+source_run_id: 571a758a6fc143e6b8a7ba8a7c15fb70
+status: 2
+status_message: null

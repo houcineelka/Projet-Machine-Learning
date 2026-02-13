@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/971096631646366527/models/m-ad1d32e2851a48c8b1cb78c62d93ca14/artifacts
+creation_timestamp: 1771002712286
+experiment_id: '971096631646366527'
+last_updated_timestamp: 1771002720836
+model_id: m-ad1d32e2851a48c8b1cb78c62d93ca14
+model_type: null
+name: Ridge_Regression
+source_run_id: 0a8216060db244508af0fb5ebc0a563b
+status: 2
+status_message: null

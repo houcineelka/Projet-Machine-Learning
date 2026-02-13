@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/262221383187447651/de9739394a41460cb097e992aab55685/artifacts
+end_time: 1771003237816
+entry_point_name: ''
+experiment_id: '262221383187447651'
+lifecycle_stage: active
+run_id: de9739394a41460cb097e992aab55685
+run_name: SVM_GridSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771003225441
+status: 3
+tags: []
+user_id: hsn

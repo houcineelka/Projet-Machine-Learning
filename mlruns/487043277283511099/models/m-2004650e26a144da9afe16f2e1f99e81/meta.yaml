@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/models/m-2004650e26a144da9afe16f2e1f99e81/artifacts
+creation_timestamp: 1771002604584
+experiment_id: '487043277283511099'
+last_updated_timestamp: 1771002611947
+model_id: m-2004650e26a144da9afe16f2e1f99e81
+model_type: null
+name: Stacking
+source_run_id: 44b2586fe7204fc7a188f97448a6fce5
+status: 2
+status_message: null

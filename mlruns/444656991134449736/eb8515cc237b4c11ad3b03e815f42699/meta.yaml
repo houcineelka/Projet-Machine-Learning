@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/444656991134449736/eb8515cc237b4c11ad3b03e815f42699/artifacts
+end_time: 1771000752646
+entry_point_name: ''
+experiment_id: '444656991134449736'
+lifecycle_stage: active
+run_id: eb8515cc237b4c11ad3b03e815f42699
+run_name: LDA_Reduction
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771000750901
+status: 3
+tags: []
+user_id: hsn

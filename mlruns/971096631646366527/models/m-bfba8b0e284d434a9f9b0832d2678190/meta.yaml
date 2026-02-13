@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/971096631646366527/models/m-bfba8b0e284d434a9f9b0832d2678190/artifacts
+creation_timestamp: 1771002773164
+experiment_id: '971096631646366527'
+last_updated_timestamp: 1771002781216
+model_id: m-bfba8b0e284d434a9f9b0832d2678190
+model_type: null
+name: Random_Forest_Regressor
+source_run_id: 3e4887210721481bb11ae967ad7b863a
+status: 2
+status_message: null

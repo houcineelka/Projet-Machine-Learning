@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/models/m-ade59cbc6b9e43eba2a1e8e6963450f9/artifacts
+creation_timestamp: 1771002483951
+experiment_id: '487043277283511099'
+last_updated_timestamp: 1771002491284
+model_id: m-ade59cbc6b9e43eba2a1e8e6963450f9
+model_type: null
+name: Decision_Tree
+source_run_id: fbfcc21458364d6f954ec006cf70c7f2
+status: 2
+status_message: null

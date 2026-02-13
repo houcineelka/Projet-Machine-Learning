@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/44b2586fe7204fc7a188f97448a6fce5/artifacts
+end_time: 1771002611981
+entry_point_name: ''
+experiment_id: '487043277283511099'
+lifecycle_stage: active
+run_id: 44b2586fe7204fc7a188f97448a6fce5
+run_name: Stacking
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002592084
+status: 3
+tags: []
+user_id: hsn

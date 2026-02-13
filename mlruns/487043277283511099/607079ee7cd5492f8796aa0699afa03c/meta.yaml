@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/607079ee7cd5492f8796aa0699afa03c/artifacts
+end_time: 1771002547214
+entry_point_name: ''
+experiment_id: '487043277283511099'
+lifecycle_stage: active
+run_id: 607079ee7cd5492f8796aa0699afa03c
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002538412
+status: 3
+tags: []
+user_id: hsn

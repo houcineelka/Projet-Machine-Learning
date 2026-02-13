@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/262221383187447651/63fb9329b46548d788a8e82fd10f44ba/artifacts
+end_time: 1771003246628
+entry_point_name: ''
+experiment_id: '262221383187447651'
+lifecycle_stage: active
+run_id: 63fb9329b46548d788a8e82fd10f44ba
+run_name: SVM_Optimized
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771003238073
+status: 3
+tags: []
+user_id: hsn

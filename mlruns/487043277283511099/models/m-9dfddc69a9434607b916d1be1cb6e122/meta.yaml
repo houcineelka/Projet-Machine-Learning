@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/models/m-9dfddc69a9434607b916d1be1cb6e122/artifacts
+creation_timestamp: 1771002523865
+experiment_id: '487043277283511099'
+last_updated_timestamp: 1771002530559
+model_id: m-9dfddc69a9434607b916d1be1cb6e122
+model_type: null
+name: SVM_Polynomial
+source_run_id: 8c9f6ac11b434d4c88e10ea5c3493cf1
+status: 2
+status_message: null

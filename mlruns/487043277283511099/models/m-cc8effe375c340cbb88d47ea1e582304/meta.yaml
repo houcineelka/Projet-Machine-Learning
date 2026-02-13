@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/models/m-cc8effe375c340cbb88d47ea1e582304/artifacts
+creation_timestamp: 1771002507554
+experiment_id: '487043277283511099'
+last_updated_timestamp: 1771002513842
+model_id: m-cc8effe375c340cbb88d47ea1e582304
+model_type: null
+name: Ridge_Classifier
+source_run_id: 4036dceeef9f4b4586993a2c985d17f6
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/6a350f90e3494f35aa4916d2b32b73d0/artifacts
+end_time: 1771002499002
+entry_point_name: ''
+experiment_id: '487043277283511099'
+lifecycle_stage: active
+run_id: 6a350f90e3494f35aa4916d2b32b73d0
+run_name: Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002491376
+status: 3
+tags: []
+user_id: hsn

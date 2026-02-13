@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/189608228128741953/23cdac40941a40efac0831e211b0c93b/artifacts
+end_time: 1771002048821
+entry_point_name: ''
+experiment_id: '189608228128741953'
+lifecycle_stage: active
+run_id: 23cdac40941a40efac0831e211b0c93b
+run_name: Hierarchical_average_n2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002048431
+status: 3
+tags: []
+user_id: hsn

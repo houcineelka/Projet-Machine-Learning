@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/c6d4bd6c39534ebb8a14aac40ba72aae/artifacts
+end_time: 1771002555807
+entry_point_name: ''
+experiment_id: '487043277283511099'
+lifecycle_stage: active
+run_id: c6d4bd6c39534ebb8a14aac40ba72aae
+run_name: Extra_Trees
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002547231
+status: 3
+tags: []
+user_id: hsn

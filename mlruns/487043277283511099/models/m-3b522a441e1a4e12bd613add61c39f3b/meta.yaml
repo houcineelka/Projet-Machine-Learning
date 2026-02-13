@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/models/m-3b522a441e1a4e12bd613add61c39f3b/artifacts
+creation_timestamp: 1771002459315
+experiment_id: '487043277283511099'
+last_updated_timestamp: 1771002473336
+model_id: m-3b522a441e1a4e12bd613add61c39f3b
+model_type: null
+name: KNN
+source_run_id: ec918e2de6f04f2ba37a5fd432989209
+status: 2
+status_message: null

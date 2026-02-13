@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/ec918e2de6f04f2ba37a5fd432989209/artifacts
+end_time: 1771002473369
+entry_point_name: ''
+experiment_id: '487043277283511099'
+lifecycle_stage: active
+run_id: ec918e2de6f04f2ba37a5fd432989209
+run_name: KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002458691
+status: 3
+tags: []
+user_id: hsn

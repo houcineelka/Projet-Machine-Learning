@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/487043277283511099/d7aca0ad7d6440f4a10bb82ef986f823/artifacts
+end_time: 1771002483372
+entry_point_name: ''
+experiment_id: '487043277283511099'
+lifecycle_stage: active
+run_id: d7aca0ad7d6440f4a10bb82ef986f823
+run_name: Naive_Bayes
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771002473391
+status: 3
+tags: []
+user_id: hsn

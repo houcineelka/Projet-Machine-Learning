@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hsn/Desktop/master_isi/machine_learning/projet/mlruns/444656991134449736/243a6af7e813491b9a7303e312dfff60/artifacts
+end_time: 1771000744309
+entry_point_name: ''
+experiment_id: '444656991134449736'
+lifecycle_stage: active
+run_id: 243a6af7e813491b9a7303e312dfff60
+run_name: LASSO_Selection
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771000742361
+status: 3
+tags: []
+user_id: hsn
